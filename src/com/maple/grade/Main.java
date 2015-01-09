@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		int[] g = { 0, 0, 0, 0, 0 };// = new int[5];
+		int[] g = { 0, 0, 0, 0, 0 };
 
 		int i, sum = 0;
 		Scanner input = new Scanner(System.in);
